@@ -10,10 +10,10 @@ The dataset consists of a wide range of financial, demographic, and credit-relat
 
 ### Key Insights Explored in This Project:
 
-🔹 What are the most critical features that indicate a higher risk of loan default?
-🔹 How accurately can machine learning models classify borrowers as defaulters or non-defaulters?
-🔹 Which model performs best in terms of precision, recall, and AUC score?
-🔹 What practical steps can lenders take based on model predictions?
+- 🔹 What are the most critical features that indicate a higher risk of loan default?
+- 🔹 How accurately can machine learning models classify borrowers as defaulters or non-defaulters?
+- 🔹 Which model performs best in terms of precision, recall, and AUC score?
+- 🔹 What practical steps can lenders take based on model predictions?
 
 By leveraging statistical methods and machine learning, I aim to contribute to the field of financial risk analytics—demonstrating how data science can play a pivotal role in making informed credit decisions and reducing financial losses. 📉
 
